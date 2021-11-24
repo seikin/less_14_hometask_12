@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/book_item.xml" value="0.26216216216216215" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/book_recycler.xml" value="0.26216216216216215" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/distances_fragment.xml" value="0.23931623931623933" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/fragment_blank.xml" value="0.1893162393162393" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/fragment_coins_list.xml" value="0.3175925925925926" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/fragment_favorites.xml" value="0.3175925925925926" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/main_fragment.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/photos_fragment.xml" value="0.3316239316239316" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/results02_fragment.xml" value="0.3316239316239316" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/results_fragment.xml" value="0.23931623931623933" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/teams_fragment.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/teamsfragment.xml" value="0.3316239316239316" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/title_photos.xml" value="0.23931623931623933" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/layout/video_fragment.xml" value="0.23931623931623933" />
+        <entry key="..\:/AndroidStudioProjects/less_14_hometask_12/app/src/main/res/menu/main_bottom_menu.xml" value="0.31666666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

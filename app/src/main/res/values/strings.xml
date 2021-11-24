@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SportResults</string>
+    <string name="title_main">Начало</string>
+    <string name="title_teams">Команды</string>
+    <string name="title_distances">BookRecycler должен быть здесь</string>
+    <string name="title_results">Результаты</string>
+    <string name="title_photos">Фото</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_videos">Видео</string>
+    <string name="positive_adventure_race">Positive Adventure Race объединяет спорт и путешествие. Дистанции сочетают в себе скайраннинг, маунтинбайк, рогейн, альпинизм и проходят по живописным каньонам, пещерам, горным вершинам и хребтам особо охраняемых природных территорий Западного Кавказа. Экологическая концепция «Не оставляй следов» является одним из основополагающих принципов при постановке дистанций и выборе маршрутов для передвижения спортсменов. Наша мечта - провести в условиях дикой природы гонку, которая сделает отношение людей к миру более ответственным, а для самих участников станет новым этапом в личностном развитии. С позитивом по пути!</string>
+    <string name="title_books">Книги</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/navigation_main">
+
+    <fragment
+        android:id="@+id/navigation_main"
+        android:name="science.involta.less_14_hometask_12.MainFragment"
+        android:label="@string/title_main"
+        tools:layout="@layout/main_fragment"/>
+
+    <fragment
+        android:id="@+id/navigation_teams"
+        android:name="science.involta.less_14_hometask_12.TeamsFragment"
+        android:label="@string/title_teams"
+        tools:layout="@layout/teams_fragment"/>
+
+    <fragment
+        android:id="@+id/navigation_distances"
+        android:name="science.involta.less_14_hometask_12.DistancesFragment"
+        android:label="navigation_distances"
+        tools:layout="@layout/distances_fragment"/>
+
+    <fragment
+        android:id="@+id/navigation_results"
+        android:name="science.involta.less_14_hometask_12.ResultsFragment"
+        android:label="navigation_results"
+        tools:layout="@layout/results_fragment"/>
+
+    <fragment
+        android:id="@+id/navigation_photos"
+        android:name="science.involta.less_14_hometask_12.PhotosFragment"
+        android:label="navigation_photos"
+        tools:layout="@layout/photos_fragment"/>
+
+
+    <fragment
+        android:id="@+id/navigation_books"
+        android:name="science.involta.less_14_hometask_12.BooksRecyclerFragment"
+        android:label="navigation_books_recycler"
+        tools:layout="@layout/book_recycler_fragment"/>
+
+</navigation>
